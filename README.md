@@ -3,6 +3,8 @@
 
 The **Potato Leaf Disease Detection** app is a deep learning-based solution that classifies potato leaves into **Healthy**, **Early Blight**, and **Late Blight** categories. It helps farmers and researchers identify diseases early, improving crop management.
 
+Click here to see the web: https://jer35tvvjabrsmdubyn8rh.streamlit.app/
+
 ## Features
 
 -->**Automated Disease Detection** using deep learning
